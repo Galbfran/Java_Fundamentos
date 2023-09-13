@@ -2,6 +2,7 @@ package PracticaVariables;
 
 public class PerimetroCircunferencia {
     public static void main(String [] args){
+        //Pi variable constante
         final double PI = 3.1415926536;
         double radio = 25.0, perimetro;
 
